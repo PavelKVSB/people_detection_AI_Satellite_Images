@@ -1,4 +1,4 @@
-# People Detection using Artificial Intelligence with Panchro-matic Satellite Images
+# People Detection using Artificial Intelligence with Panchromatic Satellite Images
 
 
 
